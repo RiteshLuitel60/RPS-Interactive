@@ -1,6 +1,8 @@
       body {
         background-color: rgb(38, 37, 37);
         color: white;
+            padding-left: 20px;
+            
       }
       .title {
         font-family: "Open Sans", "Helvetica Neue", sans-serif;
